@@ -11,7 +11,7 @@ namespace TaCriku
 		public MainWindow ()
 		{
 			this.Size = new System.Drawing.Size(120, 75);
-			this.Font = new System.Drawing.Font("Arial", 25);
+			this.Font = new System.Drawing.Font("serif", 25);
 
 			tb.Dock = DockStyle.Fill;
 			tb.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
