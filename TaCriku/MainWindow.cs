@@ -10,6 +10,10 @@ namespace TaCriku
 
 		public MainWindow ()
 		{
+            this.MinimizeBox = false;
+            this.MaximizeBox = false;
+            this.ShowIcon    = false;
+
 			this.Size = new System.Drawing.Size(120, 75);
 			this.Font = new System.Drawing.Font("serif", 25);
 
