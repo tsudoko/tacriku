@@ -14,6 +14,7 @@ namespace TaCriku
             this.MaximizeBox = false;
             this.ShowIcon    = false;
 
+			this.MinimumSize = new System.Drawing.Size(75, 75);
 			this.Size = new System.Drawing.Size(120, 75);
 			this.Font = new System.Drawing.Font("serif", 25);
 
