@@ -9,9 +9,9 @@ namespace TaCriku
 
 		public MainWindow ()
 		{
-            this.MinimizeBox = false;
-            this.MaximizeBox = false;
-            this.ShowIcon    = false;
+			this.MinimizeBox = false;
+			this.MaximizeBox = false;
+			this.ShowIcon    = false;
 
 			this.MinimumSize = new System.Drawing.Size(75,  75);
 			this.Size        = new System.Drawing.Size(120, 75);
